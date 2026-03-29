@@ -217,8 +217,8 @@ Vol. 19, No. 3, pp. 197-208
 **Rajeev Pernapati**
 - MS Computer Science, University of Nevada, Las Vegas
 - Email: rajeev30403@gmail.com
-- LinkedIn: [Your LinkedIn URL]
-- Portfolio: [Your Portfolio URL]
+- LinkedIn: [linkedin.com/in/pvn-rajeev-367169343]
+
 
 ## 📄 License
 
